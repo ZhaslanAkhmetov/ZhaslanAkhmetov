@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhaslanAkhmetov
 - 👀 I’m interested in PHP
-- 🌱 I’m currently lea PHP NodeJs
+- 🌱 I’m currently lead PHP NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
