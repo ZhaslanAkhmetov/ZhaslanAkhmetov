@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhaslanAkhmetov
 - 👀 I’m interested in PHP
 - 🌱 I’m currently lead PHP NodeJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Мой первый проект на Хекслете
 - 📫 How to reach me ...
 
 <!---
